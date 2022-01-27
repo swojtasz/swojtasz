@@ -5,8 +5,6 @@
 
 - 🌱 I’m planning to learn **React Native and NodeJS**
 
-- 📫 How to reach me **szymon.wojtaszczyk1@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/szymon-wojtaszczyk-496410214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/szymon-wojtaszczyk-496410214/" height="30" width="40" /></a>
