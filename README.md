@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Szymon</h1>
-<h3 align="center">I'm a 22 years old student and a passionate frontend ReactJS developer</h3>
+<h1>Hi 👋, I'm Szymon</h1>
+<h3>I'm a 22 years old student and a passionate frontend ReactJS developer</h3>
 
 - 🔭 My last project [Engineering work](https://github.com/swojtasz/Food-App)
 
