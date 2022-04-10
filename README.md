@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm Szymon</h1>
-<h3>I'm a 22 years old student and a passionate frontend ReactJS developer</h3>
+<h3>I'm a 22 years old passionate frontend developer</h3>
 
 - 🔭 My last project [Engineering work](https://github.com/swojtasz/Food-App)
 
-- 🌱 I’m planning to learn **React Native and NodeJS**
+- 🌱 Learning NestJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
